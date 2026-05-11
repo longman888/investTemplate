@@ -44,9 +44,9 @@ import urllib.request
 import ssl
 
 ROOT = Path(__file__).resolve().parents[1]
-STRATEGY_DIR = ROOT / "08-决策追踪" / "vix_dca_strategy"
+STRATEGY_DIR = ROOT / "decision-tracking" / "vix_dca_strategy"
 PUBLIC_DIR = ROOT / "public" / "vix_strategy"
-TEMPLATE_DIR = ROOT / "模拟持仓"
+TEMPLATE_DIR = ROOT / "portfolio"
 
 CONFIG_FILE = STRATEGY_DIR / "strategy_config.json"
 STATE_FILE = STRATEGY_DIR / "state.json"
