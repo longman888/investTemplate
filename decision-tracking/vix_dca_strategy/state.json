@@ -14,7 +14,7 @@
     "initial_capital": 100000,
     "currency": "CNY",
     "cash": 93994.0,
-    "last_update": "2026-05-01"
+    "last_update": "2026-05-11"
   },
   "position": {
     "shares": 3078,
@@ -26,8 +26,8 @@
     "return_pct": 12.54
   },
   "daily_performance": {
-    "date": "2026-05-01",
-    "vix": 17.1,
+    "date": "2026-05-11",
+    "vix": 18.24,
     "daily_pnl": 0.0,
     "total_pnl": 753.29,
     "total_return_pct": 12.65
@@ -41,19 +41,19 @@
     "total_invested": 6000,
     "hold_days": 14,
     "last_trade_date": "2026-04-07",
-    "next_trade_date": "2026-05-05"
+    "next_trade_date": "2026-05-19"
   },
   "schedule": {
     "frequency": "每两周周二",
     "anchor_date": "2026-03-24",
     "upcoming_trade_dates": [
-      "2026-05-05",
       "2026-05-19",
       "2026-06-02",
       "2026-06-16",
-      "2026-06-30"
+      "2026-06-30",
+      "2026-07-14"
     ],
-    "next_trade_date": "2026-05-05"
+    "next_trade_date": "2026-05-19"
   },
   "history": {
     "vix_high": 21.23,
